@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m a full-stack developer.
+- 👨‍💻 I’m a full-stack developer.
 - 🌱 I’m currently learning more about JavaScript frameworks (React in particular).
 - 👯 I’m looking to collaborate on interesting Projects.
 - 💬 Ask me about Flutter or any tech related stuff.
