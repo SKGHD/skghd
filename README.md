@@ -18,12 +18,12 @@
 <br/>
 <br/>
 
-- 👨‍💻 I’m a full-stack developer.
-- 🌱 I’m currently learning more about JavaScript frameworks (React in particular).
+- 👨‍💻 I’m a full-stack web developer.
+- 🌱 I’m currently working on some cool personal projects. 
 - 👯 I’m looking to collaborate on interesting Projects.
-- 💬 Ask me about Flutter or any tech related stuff.
+- 💬 Ask me about Angular or any tech related stuff.
 - 📫 How to reach me: [Gmail - sangramgorai@gmail.com](mailto:sangramgorai@gmail.com) , [Telegram](https://t.me/skghd1)
-- 😄 Pronouns: He/His
+
 - ⚡ Fun fact: I love reading books. Currently on my 76th book 📚
 
 [![Twitter: sangramgorai](https://img.shields.io/twitter/follow/sangramgorai?style=social)](https://twitter.com/sangramgorai)
